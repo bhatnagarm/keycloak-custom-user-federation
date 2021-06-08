@@ -120,7 +120,7 @@
 		<dependency>
 		    <groupId>org.keycloak</groupId>
 		    <artifactId>keycloak-core</artifactId>
-		    <version>9.0.0</version>
+		    <version>13.0.0</version>
 		</dependency>
     	
     	<!-- https://mvnrepository.com/artifact/org.keycloak/keycloak-model-jpa -->
